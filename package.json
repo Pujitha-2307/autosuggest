@@ -1,0 +1,23 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verifying my git set-up :\r checking the git hub repository",
+  "homepage": "https://github.com/Pujitha-2307/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/Pujitha-2307/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pujitha-2307/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
